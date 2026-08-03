@@ -558,6 +558,7 @@ echo "$val1 is less than $val2"
 fi
 ```
 ##OUTPUT
+
 <img width="476" height="243" alt="image" src="https://github.com/user-attachments/assets/ec519dcb-cf4b-48da-9608-9d9f778d8828" />
 
 
@@ -593,6 +594,7 @@ echo “Sorry, you are not the owner of the /etc/passwd file”
 fi
  ```
 ./psswdperm.sh
+
 ## OUTPUT
 <img width="631" height="256" alt="image" src="https://github.com/user-attachments/assets/b5822d57-bddb-4efb-87ad-f9b4ecc958c2" />
 
@@ -640,7 +642,10 @@ fi
 ```
 
 ./ifnested.sh 
+
+
 ## OUTPUT
+
 
 <img width="524" height="391" alt="image" src="https://github.com/user-attachments/assets/3f977bfe-f2ec-4af6-a185-77d53695f37d" />
 
@@ -687,7 +692,10 @@ fi
 $ chmod 755 iftest.sh
  
 $ ./iftest.sh 
+
+
 ##OUTPUT
+
 
 <img width="524" height="391" alt="image" src="https://github.com/user-attachments/assets/8b562093-bd09-4d7b-86d4-8decb6840218" />
 
@@ -740,7 +748,10 @@ fi
 $ chmod 755 ifnested.sh
  
 $ ./ifnested.sh 
+
+
 ##OUTPUT
+
 
 <img width="573" height="471" alt="image" src="https://github.com/user-attachments/assets/4148eb07-2829-46f6-963a-70b4c076e038" />
 
@@ -770,7 +781,10 @@ fi
 $ chmod 755 elifcheck.sh
  
 $ ./elifcheck.sh 
+
+
 ## OUTPUT
+
 
 <img width="573" height="471" alt="image" src="https://github.com/user-attachments/assets/29dcfb94-e3af-4725-9297-c8cc68c49732" />
 
@@ -788,7 +802,9 @@ fi
 ```
 $ chmod 755 ifcompound.sh
 $ ./ifcompound.sh 
+
 ## OUTPUT
+
 
 <img width="541" height="248" alt="image" src="https://github.com/user-attachments/assets/c158fc70-6625-4675-b605-a2091dc13cf2" />
 
